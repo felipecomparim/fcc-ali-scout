@@ -1,0 +1,3 @@
+sugira um nome de projeto melhor q corresponda a aplicaçao,  e eu vou renomear o diretorio e depois seguimos com o git push/create pro github ...
+
+sss
